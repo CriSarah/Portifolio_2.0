@@ -1,6 +1,6 @@
 <h1 align="center"> ✨ Portifolio2.0 ✨ </h1>
 
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+![GitHub Org's stars](https://img.shields.io/github/stars/CriSarah?style=social)
 
 
 Projeto desenvolvido no curso [HTML e CSS: cabeçalho, footer e variáveis CSS](https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css)
