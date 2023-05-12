@@ -6,7 +6,8 @@
 }
 
 body{
-    height: 100vh;
+    /*height: 100vh;*/
+    
     box-sizing: border-box;
     background-color: #000000;
     color: #F6F6F6;
@@ -79,5 +80,12 @@ background-color: #272727;
 }
 
 .rodape {
-    
+
+color: #000000;
+background-color: #22D4FD;
+text-align: center;   
+padding:24px;
+font-family: 'Montserrat', sans-serif;
+font-size:24px;
+font-weight: 400
 }
