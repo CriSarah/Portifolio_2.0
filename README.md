@@ -29,13 +29,14 @@ Achei interessante documentar meu aprendizado referente ao curso, então fiz um 
 
 ##
 
-> :construction: Projeto em construção :construction:
 
 
-![](https://media3.giphy.com/media/FaAxdPWZ7HKGmlnku7/giphy.gif?cid=ecf05e47sprh54rekw291mx9td3dz5gpg2k4uqspaca3a1g6&rid=giphy.gif&ct=g)
+<div align="center">
+✅ Projeto Finalizado ✅
 
+ ![image](https://github.com/CriSarah/Portifolio_2.0/assets/113630901/fd06e1dc-007c-4af2-a5ce-23891fa99436)
 
-
+</div>
 
 
 
